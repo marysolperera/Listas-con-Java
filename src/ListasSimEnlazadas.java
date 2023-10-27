@@ -11,6 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @aut
  */
+// archivo completo
 public class ListasSimEnlazadas {
 
     /**
